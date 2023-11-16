@@ -17,8 +17,8 @@ TRAINING:
   RESUME: False
   PS_W: 512
   PS_H: 512
-  TRAIN_DIR: '../data/Jung/train/' # path to training data
-  VAL_DIR: '../data/Jung/test/'    # path to validation data
+  TRAIN_DIR: '../data/dataset/Jung/train/' # path to training data
+  VAL_DIR: '../data/dataset/Jung/test/'   # path to validation data
   SAVE_DIR: './checkpoints/'     # path to save models and images
   ORI: True
 
